@@ -28,3 +28,5 @@ legend(x=0, y=190, #coordinates of where you want the legend to go
        legend=c("Males", "Females"), #legend text label
        col=c("blue", "red"),         #colors 
        pch=15)                       #shape of legend
+
+make changedFiles()
